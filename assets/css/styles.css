@@ -315,6 +315,9 @@ img{
 .skills__java{
   width: 70%;
 }
+.skills__spring{
+  width: 50%;
+}
 .skills__img{
   border-radius: .5rem;
 }
